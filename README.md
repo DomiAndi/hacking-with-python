@@ -1,3 +1,5 @@
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
 # Ethical Hacking with Python  
 
 Repositorio dedicado al desarrollo de herramientas de hacking ético utilizando Python, desde conceptos básicos hasta técnicas avanzadas.  
